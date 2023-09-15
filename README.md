@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hemalatha A</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hema-alapati&label=Profile%20views&color=0e75b6&style=flat" alt="hema-alapati" /> </p>
 
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working as **Full Stack Developer**
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m looking for help with **Underwater Image Enhancement**
+- 🤝 I’m interested in **ML Research**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
