@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hema-alapati&label=Profile%20views&color=0e75b6&style=flat" alt="hema-alapati" /> </p>
 
 
-- 🔭 I’m currently working as **Full Stack Developer**
+- 🔭 I’m currently working on **Full Stack Developer**
 
 - 🌱 I’m currently learning **DSA**
 
