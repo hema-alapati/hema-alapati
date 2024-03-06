@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Java full Stack Development**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **React and Spring Boot**
 
-- 🤝 I’m interested in **ML Research**
+- 🤝 I’m interested in **Machine Learning and Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
