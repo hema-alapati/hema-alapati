@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hema-alapati&label=Profile%20views&color=0e75b6&style=flat" alt="hema-alapati" /> </p>
 
+- 🔭 Currently building scalable apps with **Java Full-Stack Development**
+- 🌱 Leveling up in **React**, **Spring Boot**, and **Cloud-Native Development**
+- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and exploring the frontier of **LLMs** and **Generative AI**
+- 🚀 Open to collaborations in **AI-driven applications**, **MLOps**, and **Retrieval-Augmented Generation (RAG)** pipelines
 
-- 🔭 I’m currently working on **Java full Stack Development**
 
-- 🌱 I’m currently learning **React and Spring Boot**
-
-- 🤝 I’m interested in **Machine Learning and Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
